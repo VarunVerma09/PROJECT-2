@@ -3,7 +3,7 @@ import Img1 from '../../assets/slide/img1.avif';
 import Img2 from '../../assets/slide/img2.avif';
 import Img3 from '../../assets/slide/img3.jpg';
 import Img4 from '../../assets/slide/img4.avif';
-import Img5 from '../../assets/slide/img5.avif';
+import Img5 from '../../assets/slide/img5.png';
 import Img6 from '../../assets/slide/img6.avif';
 import Img7 from '../../assets/slide/img7.avif';
 
@@ -62,8 +62,8 @@ const Slide = () => {
                         <img src={Img5} className='inner-card' alt="" />
                     </div>
                     <div className='details'>
-                        <h4>Y-3 Fall/Winter 2025</h4>
-                        <p>an amber ink story.</p><br />
+                        <h4>ADIZERO EVO SL. FEEL FAST.</h4>
+                        <p>EVO SL gives you fast in all aspects of life.</p><br />
                         <button className='shopme'>Shop men</button>
                     </div>
 
@@ -73,8 +73,8 @@ const Slide = () => {
                         <img src={Img6} className='inner-card' alt="" />
                     </div>
                     <div className='details'>
-                        <h4>Y-3 Fall/Winter 2025</h4>
-                        <p>an amber ink story.</p><br />
+                        <h4>Fear of God Athletics</h4>
+                        <p>Where sport meets sophistication</p><br />
                         <button className='shopme'>Shop men</button>
                     </div>
 
@@ -84,8 +84,8 @@ const Slide = () => {
                         <img src={Img7} className='inner-card' alt="" />
                     </div>
                     <div className='details'>
-                        <h4>Y-3 Fall/Winter 2025</h4>
-                        <p>an amber ink story.</p><br />
+                        <h4>Ready, set, school!</h4>
+                        <p>Fet their perfect bags as the go back-to-school</p><br />
                         <button className='shopme'>Shop men</button>
                     </div>
 
