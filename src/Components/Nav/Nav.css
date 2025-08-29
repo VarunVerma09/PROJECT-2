@@ -57,7 +57,7 @@
 }
 
 nav {
-    /* position: fixed; */
+    position: sticky !important;
     font-family: Arial, Helvetica, sans-serif;
 
     padding-left: 50px;
@@ -68,6 +68,7 @@ nav {
     width: 100vw;
     height: 70px;
     line-height: 70px;
+  
 
 
 
